@@ -4,8 +4,8 @@
 }
 
 .navbar {
-    background-color: lightslategray;
-    font-size: 1em;
+    background-color: blue;
+    font-size: 1.5em;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     padding: 8px 5px 8px 5px;
@@ -14,7 +14,7 @@
 .navbar a {
     text-decoration: none;
     color: inherit;
-    color: red;
+    color: yellow;
 }
 
 .navbar-brand {
@@ -28,6 +28,7 @@
 }
 
 .body-content {
+    background-color: grey;
     padding: 5px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
